@@ -1,0 +1,40 @@
+package students
+
+var Students = []Student {
+		{
+		FirstName: "Муслим",
+		LastName: "Анзоров",
+		Age: 21,
+		City: "Лос-Анджелес",
+		Course: "JS-frontend",
+		IsMale: true,
+		HeightMeters: 1.81,
+		WeightKg: 82.65,
+		ITExperience: false,
+		HasCar: true,
+	},
+	{
+		FirstName: "Ахьмад",
+		LastName: "Сулейманов",
+		Age: 21,
+		City: "Грозный",
+		Course: "PY-backend",
+		IsMale: true,
+		HeightMeters: 1.75,
+		WeightKg: 82.65,
+		ITExperience: false,
+		HasCar: false,
+		},
+		{
+		FirstName: "Арби",
+		LastName: "Батукаев",
+		Age: 26,
+		City: "Грозный",
+		Course: "PY-backend",
+		IsMale: true,
+		HeightMeters: 1.87,
+		WeightKg: 90.10,
+		ITExperience: true,
+		HasCar: false,	
+		},
+	}
